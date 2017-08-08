@@ -1,0 +1,2 @@
+cmake from dev branch 0.2.5
+dynamic and static libs built under vs c++ 2017
