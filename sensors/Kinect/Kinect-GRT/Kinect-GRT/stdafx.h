@@ -13,3 +13,16 @@
 
 
 // TODO: reference additional headers your program requires here
+
+
+
+// Safe release for interfaces
+template<class Interface>
+inline void SafeRelease(Interface *& pInterfaceToRelease)
+{
+	if (pInterfaceToRelease != nullptr)
+	{
+		pInterfaceToRelease->Release();
+		pInterfaceToRelease = nullptr;
+	}
+}

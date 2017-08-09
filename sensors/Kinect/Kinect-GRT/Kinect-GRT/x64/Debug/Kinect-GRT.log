@@ -1,3 +1,4 @@
 ﻿  Kinect-GRT.cpp
-  Kinect-GRT.vcxproj -> C:\Users\AAA59448\documents\visual studio 2017\Projects\Kinect-GRT\x64\Debug\Kinect-GRT.exe
-  Kinect-GRT.vcxproj -> C:\Users\AAA59448\documents\visual studio 2017\Projects\Kinect-GRT\x64\Debug\Kinect-GRT.pdb (Partial PDB)
+c:\users\aaa59448\documents\github\uos-gesture-recognition\sensors\kinect\kinect-grt\kinect-grt\kinect-grt.cpp(145): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  Kinect-GRT.vcxproj -> C:\Users\AAA59448\Documents\GitHub\uos-gesture-recognition\sensors\Kinect\Kinect-GRT\x64\Debug\Kinect-GRT.exe
+  Kinect-GRT.vcxproj -> C:\Users\AAA59448\Documents\GitHub\uos-gesture-recognition\sensors\Kinect\Kinect-GRT\x64\Debug\Kinect-GRT.pdb (Partial PDB)
