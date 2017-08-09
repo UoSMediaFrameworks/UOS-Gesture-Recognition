@@ -1,0 +1,4 @@
+﻿  Kinect-GRT.cpp
+Kinect-GRT.obj : error LNK2019: unresolved external symbol _GetDefaultKinectSensor@4 referenced in function "bool __cdecl initKinect(void)" (?initKinect@@YA_NXZ)
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Lib\x64\kinect20.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\AAA59448\documents\visual studio 2017\Projects\Kinect-GRT\Debug\Kinect-GRT.exe : fatal error LNK1120: 1 unresolved externals
