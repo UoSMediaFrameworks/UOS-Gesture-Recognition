@@ -1,4 +1,9 @@
 ﻿  Kinect-GRT.cpp
-c:\users\aaa59448\documents\github\uos-gesture-recognition\sensors\kinect\kinect-grt\kinect-grt\kinect-grt.cpp(145): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+c:\users\aaa59448\documents\github\uos-gesture-recognition\sensors\kinect\kinect-grt\kinect-grt\kinect-grt.cpp(281): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  Generating Code...
+c:\users\aaa59448\documents\github\uos-gesture-recognition\sensors\kinect\kinect-grt\kinect-grt\kinect-grt.cpp(181): warning C4715: 'UpdateBodyData': not all control paths return a value
+c:\users\aaa59448\documents\github\uos-gesture-recognition\sensors\kinect\kinect-grt\kinect-grt\kinect-grt.cpp(205): warning C4700: uninitialized local variable 'bodyTId' used
+  Skipping... (no relevant changes detected)
+  stdafx.cpp
   Kinect-GRT.vcxproj -> C:\Users\AAA59448\Documents\GitHub\uos-gesture-recognition\sensors\Kinect\Kinect-GRT\x64\Debug\Kinect-GRT.exe
   Kinect-GRT.vcxproj -> C:\Users\AAA59448\Documents\GitHub\uos-gesture-recognition\sensors\Kinect\Kinect-GRT\x64\Debug\Kinect-GRT.pdb (Partial PDB)
